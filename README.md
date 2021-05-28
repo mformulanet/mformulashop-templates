@@ -61,22 +61,39 @@ Facebook Shop
 - templates/{template name}
 
 column_left
+
 column_right
+
 index
+
 listing_products
+
 listing_products_alsopurchase
+
 listing_products_bestsellers
+
 listing_products_hotsite
+
 listing_products_incmod
+
 listing_products_incmod_cat
+
 listing_products_specials
+
 listing_products_specials_default
+
 listing_products_specials_default_carousel
+
 listing_products_specials_default_cslider
+
 listing_products_specials_xml
+
 listing_products_specials_xml_carousel
+
 listing_products_upcoming
+
 listing_products_xml
+
 listing_products_xml_cat
 
 ## Tutorials
